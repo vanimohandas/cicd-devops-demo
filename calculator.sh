@@ -2,4 +2,4 @@
 #demo sample file
 echo "samplefile calc"
 a + b = c
-echo "end"
+echo "1 end 1"
